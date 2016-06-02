@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sipTest01cpp", "sipTest01cpp\sipTest01cpp.vcxproj", "{C58E89DF-0C52-4F45-B940-E806BD732BFE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SipMessage", "SipMessage\SipMessage.vcxproj", "{F5ADAB9A-664A-4BF0-82B6-77AED83B26AA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZoomAPI", "ZoomAPI\ZoomAPI.vcxproj", "{C1E91F01-584F-49D4-AC18-0451CA5BBA7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C58E89DF-0C52-4F45-B940-E806BD732BFE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C58E89DF-0C52-4F45-B940-E806BD732BFE}.Debug|Win32.Build.0 = Debug|Win32
+		{C58E89DF-0C52-4F45-B940-E806BD732BFE}.Release|Win32.ActiveCfg = Release|Win32
+		{C58E89DF-0C52-4F45-B940-E806BD732BFE}.Release|Win32.Build.0 = Release|Win32
+		{F5ADAB9A-664A-4BF0-82B6-77AED83B26AA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F5ADAB9A-664A-4BF0-82B6-77AED83B26AA}.Debug|Win32.Build.0 = Debug|Win32
+		{F5ADAB9A-664A-4BF0-82B6-77AED83B26AA}.Release|Win32.ActiveCfg = Release|Win32
+		{F5ADAB9A-664A-4BF0-82B6-77AED83B26AA}.Release|Win32.Build.0 = Release|Win32
+		{C1E91F01-584F-49D4-AC18-0451CA5BBA7B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C1E91F01-584F-49D4-AC18-0451CA5BBA7B}.Debug|Win32.Build.0 = Debug|Win32
+		{C1E91F01-584F-49D4-AC18-0451CA5BBA7B}.Release|Win32.ActiveCfg = Release|Win32
+		{C1E91F01-584F-49D4-AC18-0451CA5BBA7B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
